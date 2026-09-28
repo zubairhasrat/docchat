@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-09-28 at 11.10.42 PM.png…]()
 # DocChat: RAG chatbot over your documents
 
 Upload PDFs, Markdown or web pages and ask questions. Answers stream in with numbered source citations, and the bot says so when the answer isn't in your documents instead of guessing.
