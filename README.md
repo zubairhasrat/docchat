@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-09-28 at 11.10.42 PM.png…]()
+<img width="1447" height="783" alt="Screenshot 2026-09-28 at 11 10 42 PM" src="https://github.com/user-attachments/assets/146aecf6-0abf-481c-90fe-32c3749d8a2f" />
 # DocChat: RAG chatbot over your documents
 
 Upload PDFs, Markdown or web pages and ask questions. Answers stream in with numbered source citations, and the bot says so when the answer isn't in your documents instead of guessing.
